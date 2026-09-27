@@ -1,0 +1,6 @@
+
+Varun,2024-06-02,Orange,Rice
+Ajay,2024-06-02,Banana,Ice Cream
+Mom,2024-06-01,Chicken,Rice
+Dad,2024-06-01,Banana,Mango
+Friend,2024-06-02,Egg,Sweet
